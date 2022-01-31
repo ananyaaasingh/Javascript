@@ -1,0 +1,8 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+    background-color: rgb(39, 36, 36);
+}
+
+.form-group{
+    margin: 5px;
+}
